@@ -4,6 +4,9 @@
 
 **Server:** Node, Express
 
+**Database:** mongoDB
+
+
 ## features
 **ecommerce platform**
 
